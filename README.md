@@ -2,8 +2,8 @@
 ## Profil
 | #               | Biodata           |
 | --------------- | ----------------- |
-| **Nama**        | D.Wita Aeni       |
-| **NIM**         | 312110222         |
+| **Nama**        | Ariqoh Zulaikha   |
+| **NIM**         | 312110138         |
 | **Kelas**       | TI.21.A.1         |
 | **Mata Kuliah** | Pemrograman Web 2 |
 
